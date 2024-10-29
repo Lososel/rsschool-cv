@@ -1,4 +1,4 @@
-<img src="/images/mail.jpeg" alt="photo" width="100" />
+<img src="images/mail.jpeg" alt="photo" width="100" />
 
 # Elmira Shainurova
 
