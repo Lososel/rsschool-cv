@@ -5,7 +5,8 @@
 
 ## Education
 * **Bachelor of Business Administration in IT**  
-  *Maqsut Narikbayev University, Astana, Kazakhstan* <br>
+  _Maqsut Narikbayev University, Astana, Kazakhstan_
+  <br>
   Expected graduation date 06/2026
 
 ## Skills
