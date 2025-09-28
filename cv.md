@@ -1,6 +1,6 @@
 # Elmira Shainurova - Junior Developer CV
 
-<!-- ![Profile Photo](https://via.placeholder.com/150) -->
+<img src="images/mail.jpeg" alt="photo" width="100" />
 
 ## Contact Information
 - **Email**: shainurova.nursultan@gmail.com
