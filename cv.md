@@ -41,6 +41,21 @@ I am a dedicated Junior Developer with a strong foundation in web development an
 - Created and led interactive games (bingo, Padlet, codeword hunts), increasing delegate participation.
 - Contributed to an outreach of 34,309 unique Instagram accounts and a participant return intent rate of 69%.
 
+## Code Example
+Below is my solution to the Codewars problem "Sum of Digits / Digital Root" (6 kyu) in JavaScript:
+
+```javascript
+function digitalRoot(n) {
+  while (n > 9) {
+    n = n
+      .toString()
+      .split('')
+      .reduce((sum, digit) => sum + Number(digit), 0);
+  }
+  return n;
+}
+```
+
 ## Education
 ### BA in IT, Maqsut Narikbayev University  
 *2022 – Present*  
